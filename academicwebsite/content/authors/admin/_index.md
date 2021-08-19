@@ -6,11 +6,11 @@ title: Aagam Jain
 superuser: true
 
 # Role/position/tagline
-role: Incoming SWE Intern at JPMorgan Chase & Co.
+# role: Incoming SWE Intern at JPMorgan Chase & Co.
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: National Institute of Engineering,Mysore
+#organizations:
+  #- name: National Institute of Engineering,Mysore
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
