@@ -77,6 +77,8 @@ email: "aagamjain99@gmail.com"
 highlight_name: false
 ---
 
-I am a 3rd year Computer Science undergraduate student at National Institute of Engineering,Mysore and a passionate competitive programmer who can often be seen participating in contests across online judges by the username aagamjain04. I have recently acquired an interest in learning about backend web technologies and machine learning.
+I am a 3rd year Computer Science Engineering undergraduate student at National Institute Of Engineering,Mysore and a passionate competitive programmer who can often be seen participating in contests across online judges by the username aagamjain04.
+
+I have recently acquired an interest in learning about backend web technologies and machine learning.
 
 {{< icon name="code" pack="fas" >}} Online Judge {{< staticref "https://www.stopstalk.com/user/profile/aagamjain04" "newtab" >}} Profiles{{< /staticref >}}.
